@@ -77,7 +77,7 @@ qiskit-terra==0.15.2
 qtconsole==4.7.7
 QtPy==1.9.0
 Quandl==3.5.2
-requests==2.31.0
+requests==2.32.2
 requests-ntlm==1.1.0
 retworkx==0.4.0
 scikit-learn==1.5.1
