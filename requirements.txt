@@ -18,7 +18,7 @@ fastdtw==0.3.4
 fastjsonschema==2.14.5
 future==0.18.3
 h5py==2.10.0
-idna==2.10
+idna==3.7
 inflection==0.5.1
 ipykernel==5.3.4
 ipython==8.10.0
